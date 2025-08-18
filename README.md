@@ -21,8 +21,9 @@ The app demonstrates how to connect an Angular frontend with a .NET backend and 
 ## 📂 Project Structure
 
 MyDotnetAngularApp
-┣ 📂 Backend → ASP.NET Core Web API (HelloController.cs)
-┣ 📂 Frontend → Angular app (App component with HttpClient)
+|
+|- 📂 Backend → ASP.NET Core Web API (HelloController.cs)
+|- 📂 Frontend → Angular app (App component with HttpClient)
 
 ---
 
