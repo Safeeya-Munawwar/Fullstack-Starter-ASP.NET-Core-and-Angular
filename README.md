@@ -43,9 +43,11 @@ The app demonstrates how to connect an Angular frontend with a .NET backend and 
 
 ## 📸 Screenshot
 **Before fetching message:**
+
 ![Before Fetch](1.PNG)
 
 **After fetching message:**
+
 ![After Fetch](2.PNG)
 
 ---
